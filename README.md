@@ -1,1 +1,2 @@
-test web
+- a simple web project (guess number game)
+- the web page [link](https://david3951445.github.io)
